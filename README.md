@@ -16,11 +16,12 @@ My journey in cybersecurity has led me to develop a passion for building, mainta
 
 ## Certifications
 
+<div>
 <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+</div>
 
-CompTIA Security+ Credential ID: 85e211c50fe34910a53ef300d32f5e65
-
+CompTIA Security+ Credential ID: 85e211c50fe34910a53ef300d32f5e65<br>
 CompTIA Network+ Credential ID: eaa1cabe494241b8a2e3f6a39a4c8b1b
 
 ## Projects
