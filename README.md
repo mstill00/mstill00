@@ -13,17 +13,18 @@ My journey in cybersecurity has led me to develop a passion for building, mainta
 | Skills Obtained                               | Associated Projects                                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Active Directory Object Management            | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Documentation                                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Documentation                                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
 | Domain Computer Management                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Domain Group Management                       | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Domain Group Management                       | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
 | Domain User Management                        | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Joining Devices to a Domain                   | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Network Planning                              | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| DHCP Configuration                            | <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP Lab</a> |
+| Joining Devices to a Domain                   | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
+| Network Planning                              | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
 | Operating System Installation                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 | Organizational Unit Management                | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 | Promoting a Domain Controller                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Virtual Machine Resource Provisioning         | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| Virtual Machine Management                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Virtual Machine Resource Provisioning         | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
+| Virtual Machine Management                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
 
 
 ## Tools
@@ -33,9 +34,11 @@ My journey in cybersecurity has led me to develop a passion for building, mainta
 | Active Directory                              | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 | Active Directory Administrative Center        | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 | Active Directory Users and Computers          | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| PowerShell                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, DHCP Lab |
+| PowerShell                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
+| SConfig (Server Configuration Tool)           | <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP Lab</a>
 | Server Manager                                | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
-| VirtualBox                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| VirtualBox                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a> |
+
 ## Certifications
 
 <div>
@@ -49,7 +52,7 @@ CompTIA Network+ Credential ID: eaa1cabe494241b8a2e3f6a39a4c8b1b
 ## Projects
 
 - <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>
-- DHCP lab
+- <a href="https://github.com/mstill00/DHCP-lab/blob/main/README.md">DHCP lab</a>
 - RHEL 10 lab
 
 ## Continuous Learning
