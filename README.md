@@ -1,6 +1,6 @@
 ## Hello, I'm Michael
 
-<a href="www.linkedin.com/in/michael-still-b57529370"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/michael-still-b57529370"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
 I am a recent graduate that is enthusiastic about advancing my knowledge and technical ability within the system administration, cybersecurity, and networking domains.
 
@@ -10,10 +10,32 @@ My journey in cybersecurity has led me to develop a passion for building, mainta
 
 ## Skills
 
-| Skill                                         | Associated Projects         |
-|-----------------------------------------------|----------------------------|
-| PowerShell                                    | <a href="">Active Directory Lab</a>, <a href="">DHCP Lab</a>|
+| Skills Obtained                               | Associated Projects                                                                                               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Active Directory Object Management            | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Documentation                                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Domain Computer Management                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Domain Group Management                       | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Domain User Management                        | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Joining Devices to a Domain                   | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Network Planning                              | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Operating System Installation                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Organizational Unit Management                | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Promoting a Domain Controller                 | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Virtual Machine Resource Provisioning         | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Virtual Machine Management                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 
+
+## Tools
+
+| Tools Used                                    | Associated Projects                                                                                               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Active Directory                              | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Active Directory Administrative Center        | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| Active Directory Users and Computers          | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| PowerShell                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>, DHCP Lab |
+| Server Manager                                | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
+| VirtualBox                                    | <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>           |
 ## Certifications
 
 <div>
@@ -26,9 +48,9 @@ CompTIA Network+ Credential ID: eaa1cabe494241b8a2e3f6a39a4c8b1b
 
 ## Projects
 
-- Active Directory Lab
-- DHCP Lab
-- RHEL 10 Lab
+- <a href="https://github.com/mstill00/Active-Directory-Lab/blob/main/README.md">Active Directory lab</a>
+- DHCP lab
+- RHEL 10 lab
 <!--
 **mstill00/mstill00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
